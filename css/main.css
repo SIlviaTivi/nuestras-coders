@@ -1,0 +1,22 @@
+hr {
+  width: 60px;
+  position: relative;
+  right: 400px;
+
+}
+.coder {
+  display: inline-block;
+  
+}
+
+.seccion1 p {position: absolute;
+  top: 180px;
+  color: white;
+
+}
+
+.seccion2 p{position: absolute;
+  top: 335px;
+  color: white;
+
+}
